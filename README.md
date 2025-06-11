@@ -1,9 +1,7 @@
 <h1 align="center">Oi, meu nome é Estevam</h1>
 <h3 align="center">Apaixonado por Estatística e Análise/Ciência de Dados.</h3>
 
-- Atualmente estou aprendendo **AWS e Machine Learning**
-
-- Me pergunte sobre **SQL-Server, Excel, Python, Estatística, Power BI.**
+- Me pergunte sobre **SQL-Server, Excel, Python, R, Estatística, Power BI.**
 
 - Você me acha através do e-mail **estevamcoelho@id.uff.br**
 
